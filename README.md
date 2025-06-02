@@ -1,6 +1,11 @@
 # Deekshith's Portfolio
 
-![Portfolio Screenshot](./screenshot.png)
+![Portfolio Screenshot](./screenshot.png)  <!-- Updated path -->
+
+## Features
+- Dark/Light theme toggle
+- Responsive design
+- ...
 
 This is a personal portfolio website for **Ravikoti Deekshith**, a Software Engineering Enthusiast from IIT BHU, Varanasi. The site showcases skills, projects, and contact information, and is built with React and Tailwind CSS.
 

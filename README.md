@@ -1,6 +1,37 @@
-<<<<<<< HEAD
-# deekshith-portfolio
-=======
+# Deekshith's Portfolio
+
+![Portfolio Screenshot](./screenshot.png)
+
+This is a personal portfolio website for **Ravikoti Deekshith**, a Software Engineering Enthusiast from IIT BHU, Varanasi. The site showcases skills, projects, and contact information, and is built with React and Tailwind CSS.
+
+## Features
+- Dark/Light theme toggle
+- Responsive design
+- Project showcase with modal details
+- Contact and social links
+
+## Quick Start
+
+1. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+2. **Run the development server:**
+   ```bash
+   npm start
+   ```
+3. **Build for production:**
+   ```bash
+   npm run build
+   ```
+
+## Technologies Used
+- React
+- Tailwind CSS
+- Lucide React Icons
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -71,4 +102,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 8c29ae3 (Initialize project using Create React App)

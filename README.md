@@ -1,6 +1,6 @@
 # Deekshith's Portfolio
 
-![Portfolio Screenshot](/ss.png)
+![Portfolio Screenshot](./ss.png)
 
 ## Features
 - Dark/Light theme toggle
